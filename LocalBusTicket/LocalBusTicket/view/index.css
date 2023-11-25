@@ -1,0 +1,37 @@
+
+
+/* Nav */
+#nav{
+
+    color: red;
+    
+    font-size: 25px;
+    
+    font-weight: bolder;
+    }
+    
+    .btn{
+    
+    padding: 6px 8px;
+    
+    background: red;
+    
+    color: white;
+    }
+    .btn a{
+        
+    color: white;
+        
+    text-transform: uppercase;
+        
+    list-style: none;
+        
+    text-decoration: none;
+    }
+
+    /* Footer */
+    /* Footer */
+body,h4 .footer{ 
+    color: darkred;
+font-size: 20px;
+}
